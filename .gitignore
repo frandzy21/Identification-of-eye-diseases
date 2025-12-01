@@ -1,0 +1,10 @@
+.venv
+.gradio
+.idea
+Evaluation_Set
+Test_Set
+Training_Set
+retinal_project
+retinal_model.h5
+retinal_model_resnet.h5
+retinal_model_resnet_tuned.h5
